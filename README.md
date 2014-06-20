@@ -1,10 +1,14 @@
 Assessments-Git-Basic
 =====================
 
-Test your basic Git skills
+Test your basic Git skills and knowledge
 
-##Usefulness of git
-
+##git features
+True or False:
+ * git is centralized, so you must have a connection to your remote repository in order to look at previous commits
+ * git uses "branches" to allow for and manage diverging code
+ * git supports merging of branches
+ * git keeps a history of commits and commit authors
 
 ##Cloning a Repository
 - You have a repository that resides at https://github.com/awesome/my-awesome.git. Clone it to your machine.
