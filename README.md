@@ -8,4 +8,6 @@ Test your basic Git skills
 - You have a repo at https://github.com/awesome/great-project.git. Clone it to a folder called "great" that resides in the same folder you are currently working in.
 
 ##Item 2: Git vs Github
-- 
+- Which are correct differences between Git and GitHub?
+  * GitHub allows you to pull changes from a remote repository
+  * 
