@@ -23,7 +23,7 @@ Which command allows you to commit changes *and* specify a commit message in the
 
 You cloned a repository from a co-worker, but later on he made some changes to that repository. Which command would allow you to get those changes in your local repository?
 
-You've finished your code and want to have the rest of your team update in order to see it. Which command would you used to send the changes to everyone?
+You've finished your code and want to have the rest of your team update in order to see it. Which command would you use to send the changes to everyone?
 
 (Cont'd) Which command would each team member need in order to see the updated code?
 
@@ -36,7 +36,7 @@ Which are correct differences between Git and GitHub?
 
 When would you fork a GitHub repository?
  * If you wish to eventually merge your changes back into the original repository
- * If you want to keep your local origin the same as the original repo you forked from
+ * If you want to keep your local repository's original location the same as the original repo you forked from
  * If you want to pull in changes from the original repository
  * All of the above
  * None of the above
